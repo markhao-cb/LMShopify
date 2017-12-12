@@ -1,0 +1,6 @@
+use_frameworks!
+target 'LMShopify_Tests' do
+  pod 'LMShopify', :path => '../'
+  
+  
+end
