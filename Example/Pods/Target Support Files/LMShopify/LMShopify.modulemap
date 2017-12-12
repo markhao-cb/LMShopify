@@ -1,0 +1,6 @@
+framework module LMShopify {
+  umbrella header "LMShopify-umbrella.h"
+
+  export *
+  module * { export * }
+}

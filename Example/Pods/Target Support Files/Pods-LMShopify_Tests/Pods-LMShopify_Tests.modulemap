@@ -1,0 +1,6 @@
+framework module Pods_LMShopify_Tests {
+  umbrella header "Pods-LMShopify_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

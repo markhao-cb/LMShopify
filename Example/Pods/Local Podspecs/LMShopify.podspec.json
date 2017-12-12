@@ -1,0 +1,22 @@
+{
+  "name": "LMShopify",
+  "version": "0.1.0",
+  "summary": "A short description of LMShopify.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/markhao/LMShopify",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "markhao": "markqhao@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/markhao/LMShopify.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LMShopify/Classes/**/*"
+}
